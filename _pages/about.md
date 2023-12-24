@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a doctoral candidate at the College of Intelligence and Computing of Tianjin University, under the supervision of Dr. Qinghua Hu and Dr.
-Pengfei Zhu. At present, I am working towards my doctoral thesis focusing on open set recognition. Beyond this thesis, I have broad interests in computer vision, pattern recognition, and AI for science, particularly concerning with machine learning applications in life science. 
+Pengfei Zhu. At present, I am working towards my doctoral thesis focusing on open set recognition. Beyond this thesis, I have broad interests in computer vision, pattern recognition, and AI for science, particularly being concerned with machine learning applications in life science. 
 
 Research Topics
 ======
