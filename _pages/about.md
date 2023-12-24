@@ -14,5 +14,5 @@ Pengfei Zhu. At present, I am working towards my doctoral thesis focusing on ope
 Research Projects
 ======
 1. OpenMix+: Revisiting Data Augmentation for Open Set Recognition. [[paper](https://ieeexplore.ieee.org/abstract/document/10106029)] [[code](https://github.com/t9liverpool/OpenMix)]
-2. NCG for open set recognition (under review).
+2. NCG for open set recognition (under peer review).
 3. A unified framework towards the non-i.i.d. problem (under research).  
