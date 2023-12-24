@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Guosong Jiang's personal homepage"
+title                    : "Guosong Jiang's Personal Homepage"
 title_separator          : "-"
 name                     : "Guosong Jiang"
 description              : &description "personal description"
