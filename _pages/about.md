@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a doctoral candidate at the College of Intelligence and Computing of Tianjin University, under the supervision of [Dr. Qinghua Hu](https://cic.tju.edu.cn/faculty/huqinghua/index.html) and [Dr.
+I am a doctoral candidate at the College of Intelligence and Computing of Tianjin University, under the supervision of [Prof. Qinghua Hu](https://cic.tju.edu.cn/faculty/huqinghua/index.html) and [Prof.
 Pengfei Zhu](http://aiskyeye.com/). At present, I am working towards my doctoral thesis focusing on open set recognition. Beyond this thesis, I have broad interests in computer vision, pattern recognition, and AI for science, particularly being concerned with machine learning applications in life science. 
 
 Research Projects
