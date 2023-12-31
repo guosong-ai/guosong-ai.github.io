@@ -13,6 +13,7 @@ Pengfei Zhu](http://aiskyeye.com/). At present, I am working towards my doctoral
 
 Research Projects
 ======
-1. OpenMix+: Revisiting Data Augmentation for Open Set Recognition. [[paper](https://ieeexplore.ieee.org/abstract/document/10106029)] [[code](https://github.com/t9liverpool/OpenMix)]
-2. NCG for Open Set Recognition (under peer review).
-3. A Unified Framework towards the Non-i.i.d. Problem (under research).  
+1. Accurate prediction of secondary structure of tRNAs. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0006291X18326858)]
+2. OpenMix+: Revisiting Data Augmentation for Open Set Recognition. [[paper](https://ieeexplore.ieee.org/abstract/document/10106029)] [[code](https://github.com/t9liverpool/OpenMix)]
+3. NCG for Open Set Recognition (under peer review).
+4. A Unified Framework towards the Non-i.i.d. Problem (under research).  
